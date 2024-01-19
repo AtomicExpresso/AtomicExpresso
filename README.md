@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Atomic</h1>
-<h3 align="center">A passionate frontend developer, learning full-stack</h3>
+<h3 align="center">I'm a passionate front-end developer with a focus on creating responsive and visually appealing web applications. My skills include HTML5, CSS, and JavaScript, and I love turning ideas into interactive and engaging user experiences.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2>⚒️ Coding languages</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atomicexpresso&show_icons=true&locale=en&layout=compact" alt="atomicexpresso" /></p>
+<h2>💬 Skills</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atomicexpresso&show_icons=true&theme=dracula&locale=en" alt="atomicexpresso" /></p>
+- **HTML5**: Building the structure of web pages with semantic markup.
+- **CSS**: Styling and layout, including responsive design, animations, etc.
+- **JavaScript**: Creating dynamic and interactive features.
+- **Web Design**: Translating design concepts into functional and visually pleasing websites, using various tools such as Figma and Photoshop.
+
+<h2>🌱 Currently Learning</h2>
+
+I'm always looking to expand my skills. Currently, I'm diving deeper into:
+
+- **New languages**: Im currently working on expanding my skill set and learning more coding languages
+- **Backend Development**: Im working on learning backend development
