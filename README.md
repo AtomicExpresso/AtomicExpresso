@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atomic</h1>
+<h1 align="center">Hey there 👋</h1>
 <h3 align="center">I'm a passionate front-end developer with a focus on creating responsive and visually appealing web applications. My skills include HTML5, CSS, and JavaScript, and I love turning ideas into interactive and engaging user experiences.</h3>
 
 <h2>⚒️ Languages</h2>
