@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm an aspiring front-end developer with a focus on creating responsive and visually appealing web applications. My skills include HTML5, CSS, and JavaScript, and some PHP.</h3>
+<h3 align="center">I'm an aspiring web developer with a focus on creating responsive and visually appealing web applications. My skills include HTML5, CSS, and JavaScript, and some PHP, MySQL.</h3>
 
 <h2>⚒️ Languages</h2>
 
@@ -14,7 +14,7 @@
 
 - **HTML5**: Building the structure of web pages with semantic markup.
 - **CSS**: Styling and layout, including responsive design, animations, etc.
-- **JavaScript**: Creating dynamic and interactive features. Trying to learn MERN
+- **JavaScript**: Creating dynamic and interactive features.
 - **PHP**: Simple webpages and scripts, still learning it
 - **MYSQL**: The very basics, still learning
 - **Web Design**: Translating design concepts into functional and visually pleasing websites, using various tools such as Figma and Photoshop.
