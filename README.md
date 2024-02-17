@@ -8,7 +8,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-984aff?style=for-the-badge&logo=bootstrap&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/Php-ffffff?style=for-the-badge&logo=php&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MYSQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MYSQL](https://img.shields.io/badge/MySQL-ffa600?style=for-the-badge&logo=mysql&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <h2>💬 Skills</h2>
 
@@ -16,4 +16,5 @@
 - **CSS**: Styling and layout, including responsive design, animations, etc.
 - **JavaScript**: Creating dynamic and interactive features. Trying to learn MERN
 - **PHP**: Simple webpages and scripts, still learning it
+- **MYSQL**: The very basics, still learning
 - **Web Design**: Translating design concepts into functional and visually pleasing websites, using various tools such as Figma and Photoshop.
