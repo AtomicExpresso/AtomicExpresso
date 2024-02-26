@@ -14,7 +14,6 @@
 
 - **HTML5**: Building the structure of web pages with semantic markup.
 - **CSS**: Styling and layout, including responsive design, animations, etc.
-- **JavaScript**: Creating dynamic and interactive features.
+- **JavaScript**: Creating interactive websites, simple scripts and games
 - **PHP**: Simple webpages and scripts, still learning it
 - **MYSQL**: Databases and management, still learning
-- **Web Design**: Translating design concepts into functional and visually pleasing websites, using various tools such as Figma and Photoshop.
