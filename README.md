@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm an aspiring web developer with a focus on creating responsive and visually appealing web applications. My skills include HTML5, CSS, JavaScript, and some PHP, MySQL.</h3>
+<h3 align="center">I'm an aspiring web developer with a focus on creating responsive and visually appealing web applications.</h3>
 
 <h2>⚒️ Languages</h2>
 
