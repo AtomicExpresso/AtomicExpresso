@@ -18,5 +18,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
