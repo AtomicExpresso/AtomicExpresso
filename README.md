@@ -7,7 +7,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-23272f?style=for-the-badge&logo=react&logoColor=149eca)](https://react.dev/)
-[![Svelte](https://img.shields.io/badge/Svelte-fc6b03?style=for-the-badge&logo=svelte&logoColor=ffffff)](https://svelte.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-984aff?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 <h2>💬 Skills</h2>
