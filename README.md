@@ -18,10 +18,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=AtomicExpresso&show_icons=true&theme=great-gatsby"/></td>
-  </tr>
-</table>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtomicExpresso&show_icons=true&theme=great-gatsby)
