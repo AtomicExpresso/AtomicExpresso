@@ -10,6 +10,7 @@
 [![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)](https://react.dev/)
 [![Scss](https://img.shields.io/badge/Scss-e159ff?style=for-the-badge&logo=sass&logoColor=white)](https://getbootstrap.com/)
 [![Webpack](https://img.shields.io/badge/Webpack-00aeff?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/Vite-652afa?style=for-the-badge&logo=vite&logoColor=fcee1e)](https://webpack.js.org/)
 
 <h2>💬 Skills</h2>
 
