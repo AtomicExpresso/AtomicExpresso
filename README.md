@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm an aspiring software developer with a focus on creating responsive and visually appealing web applications.</h3>
+<h3 align="center">I'm an aspiring software developer</h3>
 
 <h2>⚒️ Languages & Tech </h2>
 
@@ -16,7 +16,7 @@
 
 - **HTML5**: Building the structure of web pages with semantic markup.
 - **CSS**: Styling and layout, including responsive design, animations, etc.
-- **JavaScript**: Creating interactive websites, simple scripts and games
+- **JavaScript**: Creating interactive websites
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
