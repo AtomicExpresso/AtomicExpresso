@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm an aspiring software developer</h3>
+<h3 align="center">Welcome to my profile! I'm an aspiring software developer</h3>
 
 <h2>⚒️ Languages & Tech </h2>
 
