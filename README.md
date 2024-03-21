@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm an aspiring web developer with a focus on creating responsive and visually appealing web applications.</h3>
+<h3 align="center">I'm an aspiring software developer with a focus on creating responsive and visually appealing web applications.</h3>
 
 <h2>⚒️ Languages & Tech </h2>
 
