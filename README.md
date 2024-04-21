@@ -1,6 +1,8 @@
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">Welcome to my profile!</h3>
-
+<p align="center"><a href="https://twitter.com/pumped212"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a href="https://atomic-porfoilo.netlify.app/"><img src="https://img.shields.io/badge/Porfoilo-26c418?style=for-the-badge&logo=mongodb&logoColor=white"></img></a>
+</p>
 <h2>⚒️ Languages & Tech </h2>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
