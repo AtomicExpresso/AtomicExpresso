@@ -17,9 +17,10 @@
 
 <h2>💬 Skills</h2>
 
-- **HTML5**: Building the structure of web pages with semantic markup.
-- **CSS**: Styling and layout, including responsive design, animations, etc.
 - **JavaScript**: Creating interactive websites
+- **React**: Building modern website UI's
+- **Scss/Sass**: Desigining and creating styles / themes
+- **Tuari**: Desktop application development, Still getting the hang of this ^^
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
