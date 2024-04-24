@@ -21,6 +21,7 @@
 - **React**: Building modern website UI's
 - **Scss/Sass**: Desigining and creating styles / themes
 - **Tuari**: Desktop application development, Still getting the hang of this ^^
+- **React Native**: Mobile application development, only the basics atm
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
