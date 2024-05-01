@@ -12,6 +12,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-984aff?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Scss](https://img.shields.io/badge/Scss-e159ff?style=for-the-badge&logo=sass&logoColor=white)](https://getbootstrap.com/)
 [![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")](https://reactnative.dev/)
+[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)](https://webpack.js.org/)
 [![Webpack](https://img.shields.io/badge/Webpack-00aeff?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![Vite](https://img.shields.io/badge/Vite-652afa?style=for-the-badge&logo=vite&logoColor=fcee1e)](https://webpack.js.org/)
 
