@@ -5,16 +5,17 @@
 </p>
 <h2>⚒️ Languages & Tech </h2>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)](https://react.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-984aff?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Scss](https://img.shields.io/badge/Scss-e159ff?style=for-the-badge&logo=sass&logoColor=white)](https://getbootstrap.com/)
-[![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")](https://reactnative.dev/)
-[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)](https://webpack.js.org/)
-[![Webpack](https://img.shields.io/badge/Webpack-00aeff?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![Vite](https://img.shields.io/badge/Vite-652afa?style=for-the-badge&logo=vite&logoColor=fcee1e)](https://webpack.js.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-984aff?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Scss](https://img.shields.io/badge/Scss-e159ff?style=for-the-badge&logo=sass&logoColor=white)]()
+[![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")]()
+[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)]()
+[![Webpack](https://img.shields.io/badge/Webpack-00aeff?style=for-the-badge&logo=webpack&logoColor=white)]()
+[![Vite](https://img.shields.io/badge/Vite-652afa?style=for-the-badge&logo=vite&logoColor=fcee1e)]()
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
 <h2>💬 Skills</h2>
 
