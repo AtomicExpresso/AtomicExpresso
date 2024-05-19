@@ -11,7 +11,7 @@
 [![React](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-984aff?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Scss](https://img.shields.io/badge/Scss-e159ff?style=for-the-badge&logo=sass&logoColor=white)]()
-[![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")]()
+[![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)]()
 [![Webpack](https://img.shields.io/badge/Webpack-00aeff?style=for-the-badge&logo=webpack&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-652afa?style=for-the-badge&logo=vite&logoColor=fcee1e)]()
@@ -23,7 +23,6 @@
 - **React**: Building modern website UI's
 - **Scss/Sass**: Desigining and creating styles / themes
 - **Tuari**: Desktop application development, Still getting the hang of this ^^
-- **React Native**: Mobile application development, only the basics atm
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
