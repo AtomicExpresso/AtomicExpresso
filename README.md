@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">Welcome to my profile!</h3>
+<h3 align="center">Welcome to my profile! I'm a student and web developer</h3>
 <p align="center"><a href="https://twitter.com/pumped212"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://www.pumped.dev/"><img src="https://img.shields.io/badge/Porfoilo-26c418?style=for-the-badge&logo=mongodb&logoColor=white"></img></a>
 </p>
@@ -13,17 +13,18 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-984aff?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Scss](https://img.shields.io/badge/Scss-e159ff?style=for-the-badge&logo=sass&logoColor=white)]()
 [![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)]()
 [![Webpack](https://img.shields.io/badge/Webpack-00aeff?style=for-the-badge&logo=webpack&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-652afa?style=for-the-badge&logo=vite&logoColor=fcee1e)]()
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)]()
+[![postman](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+
 
 <h2>💬 Skills</h2>
 
 - **JavaScript**: Creating interactive websites
-- **React**: Building modern website UI's
+- **React**: Building modern website UI's, using frameworks like Next.js
 - **Scss/Sass**: Desigining and creating styles / themes
-- **Tuari**: Desktop application development, Still getting the hang of this ^^
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
