@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">Welcome to my profile! I'm a student and web developer</h3>
+<p align="center">Feel free to explore my repositories and get in touch if you want to collaborate or just have a chat 🚀</p>
 <p align="center"><a href="https://twitter.com/pumped212"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://www.pumped.dev/"><img src="https://img.shields.io/badge/Porfoilo-26c418?style=for-the-badge&logo=mongodb&logoColor=white"></img></a>
 </p>
@@ -22,11 +23,18 @@
 
 <h2>💬 Skills</h2>
 
-- **JavaScript**: Creating interactive websites
-- **React**: Building modern website UI's, using frameworks like Next.js
-- **Scss/Sass**: Desigining and creating styles / themes
+- **Langauges**: Javascript, Typescript, HTML, CSS & Sass
+- **Frameworks & Libraries**: React, Bootstrap, Node.js, Express, MongoDB, Nextjs
+- **Tools**: Visual studio code, Git, Github, Postman, Figma
+- **Other**: UI/UX Design
 
-### :fire: My Stats :
+<h2>✨ Currently Learning</h2>
+
+<li>🌱 Backend web development</li>
+<li>📝 REST api's</li>
+<li>⚙️ Authentication & No sql database's</li>
+
+## :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark)
