@@ -25,12 +25,12 @@
 
 - **Langauges**: Javascript, Typescript, HTML, CSS & Sass
 - **Frameworks & Libraries**: React, Bootstrap, Node.js, Express, MongoDB, Nextjs, Mongoose
-- **Tools**: Visual studio code, Git, Github, Postman, Figma
-- **Other**: UI/UX Design
+- **Tools**: Visual studio code, Git, Github, Postman, Figma, MongoDB Atlas
+- **Other**: UI/UX Design, Web design
 
 <h2>✨ Currently Learning</h2>
 
-<li>🌱 Backend web development</li>
+<li>🌱 Fullstack web development</li>
 <li>📝 REST api's</li>
 <li>⚙️ Authentication & No sql database's</li>
 
