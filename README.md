@@ -18,8 +18,10 @@
 [![Vite](https://img.shields.io/badge/Vite-652afa?style=for-the-badge&logo=vite&logoColor=fcee1e)]()
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)]()
-[![postman](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
-
+[![vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+[![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 
 <h2>💬 Skills</h2>
 
@@ -40,3 +42,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtomicExpresso&show_icons=true&theme=great-gatsby)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atomicexpresso&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
