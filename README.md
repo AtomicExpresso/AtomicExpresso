@@ -3,6 +3,7 @@
 <p align="center">Feel free to explore my repositories and get in touch if you want to collaborate or just have a chat 🚀</p>
 <p align="center"><a href="https://twitter.com/pumped212"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://www.pumped.dev/"><img src="https://img.shields.io/badge/Porfoilo-26c418?style=for-the-badge&logo=mongodb&logoColor=white"></img></a>
+
 </p>
 <h2>⚒️ Languages & Tech </h2>
 
@@ -37,10 +38,15 @@
 <li>⚙️ Authentication & No sql database's</li>
 
 ## :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark"></img>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark"></img>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtomicExpresso&show_icons=true&theme=great-gatsby"></img>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtomicExpresso&show_icons=true&theme=great-gatsby)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atomicexpresso&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=atomicexpresso&theme=onedark"></img>
+</p>
