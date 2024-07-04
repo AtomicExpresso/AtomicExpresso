@@ -39,12 +39,12 @@
 
 ## :fire: My Stats :
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark"></img>
+  <img align="center" src="https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark"></img>  
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark"></img>  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtomicExpresso&show_icons=true&theme=great-gatsby"></img>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicExpresso&layout=compact&theme=vision-friendly-dark"></img>
 </p>
 
 <p align="center">
