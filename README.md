@@ -26,7 +26,7 @@
 
 <h2>💬 Skills</h2>
 
-- **Langauges**: Javascript, Typescript, HTML, CSS & Sass
+- **Langauges**: Javascript, Typescript, HTML, CSS & Scss
 - **Frameworks & Libraries**: React, Bootstrap, Node.js, Express, MongoDB, Nextjs, Mongoose
 - **Tools**: Visual studio code, Git, Github, Postman, Figma, MongoDB Atlas
 - **Other**: UI/UX Design, Web design
@@ -34,8 +34,9 @@
 <h2>✨ Currently Learning</h2>
 
 <li>🌱 Fullstack web development, improving my backend dev skills</li>
-<li>📝 REST api's</li>
-<li>⚙️ Authentication & No sql database's</li>
+<li>📝 REST api's and Data visualization</li>
+<li>⚙️ SQL and No Sql database's</li>
+<li>🐍 Python for data analysis</li>
 
 ## :fire: My Stats :
 <p align="center">
