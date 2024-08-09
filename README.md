@@ -23,6 +23,8 @@
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![postgressql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+
 
 <h2>💬 Skills</h2>
 
@@ -35,7 +37,7 @@
 
 <li>🌱 Fullstack web development, improving my backend dev skills</li>
 <li>📝 REST api's and Data visualization</li>
-<li>⚙️ SQL and No Sql database's</li>
+<li>⚙️ Postgres SQL and No Sql database's</li>
 <li>🐍 Python for data analysis</li>
 
 ## :fire: My Stats :
