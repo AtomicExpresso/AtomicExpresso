@@ -53,3 +53,6 @@
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=atomicexpresso&theme=onedark"></img>
 </p>
+<p align="center">
+  <img align="center" src="https://www.codewars.com/users/AtomicExpresso77/badges/small"></img>
+</p>
