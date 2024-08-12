@@ -28,7 +28,7 @@
 
 <h2>💬 Skills</h2>
 
-- **Langauges**: Javascript, Typescript, HTML, CSS & Scss
+- **Langauges**: Javascript, Typescript, PostgreSQL, HTML, CSS & Scss
 - **Frameworks & Libraries**: React, Bootstrap, Node.js, Express, MongoDB, Nextjs, Mongoose
 - **Tools**: Visual studio code, Git, Github, Postman, Figma, MongoDB Atlas
 - **Other**: UI/UX Design, Web design
