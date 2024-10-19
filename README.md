@@ -9,6 +9,15 @@
 - **Frameworks & Libraries**: React, Bootstrap
 - **Tools**: Visual studio code, Git, Github
 
+<p align='center'>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img> 
+  <img align="center" src="https://img.shields.io/badge/Python-006300?style=for-the-badge&logo=python&logoColor=white"></img>  
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-001f63?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+  <img align="center" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></img> 
+  <img align="center" src="https://img.shields.io/badge/CSS-5C2D91?&style=for-the-badge&logo=css3&logoColor=white"></img>  
+</p>
+
+
 ## :fire: My Stats :
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=AtomicExpresso&theme=dark"></img>  
