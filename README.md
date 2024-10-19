@@ -5,9 +5,9 @@
 
 <h2>💬 Skills</h2>
 
-- **Langauges**: Javascript, Typescript, PostgreSQL, Python, HTML, CSS & Scss
-- **Frameworks & Libraries**: React, Bootstrap, Node.js, Express, MongoDB, Nextjs, Mongoose
-- **Tools**: Visual studio code, Git, Github, Postman, Figma, MongoDB Atlas
+- **Langauges**: Javascript, Typescript, PostgreSQL, Python, C++, HTML, CSS & Scss
+- **Frameworks & Libraries**: React, Bootstrap
+- **Tools**: Visual studio code, Git, Github
 
 ## :fire: My Stats :
 <p align="center">
