@@ -9,7 +9,7 @@
 <h2>💬 Skills</h2>
 
 - **Langauges**: Javascript, Typescript, PostgreSQL, Python, C++, CSS & Scss
-- **Frameworks & Libraries**: React, Bootstrap
+- **Frameworks & Libraries**: React, Bootstrap, Raylib
 - **Tools**: Visual studio code, Git, Github
 
 <p align='center'>
