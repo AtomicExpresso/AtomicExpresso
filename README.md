@@ -1,15 +1,16 @@
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">Welcome to my profile!</h3>
-<p align="center">I'm a student and solo developer. Feel free to explore my repos and get in touch if you want to collaborate or just have a chat 🚀</p>
+<p align="center">I'm passionate about programming and problem-solving. I specialize in Python, working with libraries such as, Tkinter and Django, and have experience with JavaScript, C++, SQL, MongoDB, and more. Feel free to reach out for collaboration or just to chat! 🚀</p>
 <p align="center">
-  <a href="https://twitter.com/pumpeddev"><img src="https://img.shields.io/badge/My Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-  <a href="https://pumped.dev"><img src="https://img.shields.io/badge/My Portfolio-ff5e00?style=for-the-badge&logo=twitter&logoColor=orange"></img></a>
+  <a href="https://twitter.com/pumpeddev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+  <a href="https://bsky.app/profile/pumped.dev"><img src="https://img.shields.io/badge/Bsky-00599C?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+  <a href="https://pumped.dev"><img src="https://img.shields.io/badge/My Portfolio-ff5e00?style=for-the-badge&logoColor=orange"></img></a>
 </p>
 
 <h2>💬 Skills</h2>
 
 - **Langauges**: Javascript, Typescript, PostgreSQL, Python, C++, CSS & Scss
-- **Frameworks & Libraries**: React, Bootstrap, Raylib
+- **Frameworks & Libraries**: React, Bootstrap, Tkinter
 - **Tools**: Visual studio code, Git, Github
 
 <p align='center'>
