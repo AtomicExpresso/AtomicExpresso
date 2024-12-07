@@ -35,7 +35,13 @@
   </td>
   </tr>
 </table>
-
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AtomicExpresso&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img align="center" src="https://www.codewars.com/users/AtomicExpresso77/badges/small"></img>
 </p>
