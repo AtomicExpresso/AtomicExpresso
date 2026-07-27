@@ -1,10 +1,4 @@
 <h3 align="center">Welcome to my profile! 👋</h3>
-
-<p align="center">
-  I'm a math student.
-  For programming, I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and various other programming languages.
-</p>
-
 <h2>☕ Skills</h2>
 
 - **Languages**: Java, JavaScript, TypeScript, PostgreSQL, Python, HTML/CSS
